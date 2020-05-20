@@ -1,0 +1,109 @@
+.login-page, .register-page {
+	height: 100%;
+	min-height: 100vh;
+	padding-top: 10%;
+	overflow: hidden;
+	background: url('../images/bg-login.jpg');
+	background-size: cover;
+	.card{
+		min-height: unset !important;
+	}
+}
+.login-box{
+	background-color: rgba($color: #000000, $alpha: 0.6);
+	width: 350px;
+	margin:  0 auto;
+	padding-top: 20px;
+	.login-logo{
+		font-weight: 300;
+		text-align: center;
+	}
+	.login-box-msg{
+		text-align: center;
+	}
+	.form-control{
+		height: 40px !important;
+		border: none !important;
+	}
+	.card {
+		background: transparent;
+		box-shadow: none;
+		border: none; 
+	}
+	.login-card-body, .register-card-body {
+		background: transparent; 
+	}
+	.login-card-body .input-group .input-group-text, .register-card-body .input-group .input-group-text {
+		background: #fff;
+		border-radius: 0px 7px 7px 0px;
+		border-color: #a5adb6; 
+	}
+	.form-control, .btn {
+		height: 40px;
+		border-radius: 7px; 
+	}
+	.form-control {
+		border: none !important; 
+	}
+	.form-control:focus { 
+		box-shadow: inset 0px 0px 0px 2px #000; 
+	}
+	.alert {
+		font-size: 14px; 
+	}
+	.input-group-custom{
+		margin-bottom: 15px;
+		position: relative;
+		.icon{
+			position: absolute;
+			top: 14px;
+			right: 12px;
+		}
+	}
+	.alert h4 {
+		font-size: 16px;
+		color: #333;
+		display: none; 
+	}
+	.input-group-text {
+		width: 40px;
+		padding-left: 0px;
+		padding-right: 0px; 
+	}
+	.input-group-text:before {
+		width: 100%;
+		text-align: center; 
+	}
+	.btn-login {
+		background: linear-gradient(to right, #37c4fb, #e98760) !important;
+		color: #fff;
+		border: none;
+		position: relative; 
+	}
+	.btn-login .icon {
+		transition: ease-in 0.3s; 
+	}
+	.btn-login.loading .icon {
+		transform: translateX(137px); 
+	}
+	.btn-login.loading .text {
+		opacity: 0; 
+	}
+	.btn-login[disabled]:hover {
+		opacity: .65;	
+	}
+	.btn-login:hover { 
+		background: linear-gradient(to right, #25befa, #ec7c50) !important;
+		color: #fff; 
+	}
+	.btn-login .logo {
+		padding-top: 4px; 
+	}
+	.login-logo {
+		font-size: 30px;
+		color: #fff; 
+	} 
+	.login-box-msg {
+		color: #fff; 
+	}
+}

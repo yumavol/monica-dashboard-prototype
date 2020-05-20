@@ -4,8 +4,8 @@
     "static/js/0.21cccbd0.chunk.js.map": "/monica-dashboard-prototype/static/js/0.21cccbd0.chunk.js.map",
     "main.js": "/monica-dashboard-prototype/static/js/main.341a6906.chunk.js",
     "main.js.map": "/monica-dashboard-prototype/static/js/main.341a6906.chunk.js.map",
-    "runtime-main.js": "/monica-dashboard-prototype/static/js/runtime-main.a58a6515.js",
-    "runtime-main.js.map": "/monica-dashboard-prototype/static/js/runtime-main.a58a6515.js.map",
+    "runtime-main.js": "/monica-dashboard-prototype/static/js/runtime-main.f1ada63a.js",
+    "runtime-main.js.map": "/monica-dashboard-prototype/static/js/runtime-main.f1ada63a.js.map",
     "static/js/3.f3e79cc5.chunk.js": "/monica-dashboard-prototype/static/js/3.f3e79cc5.chunk.js",
     "static/js/3.f3e79cc5.chunk.js.map": "/monica-dashboard-prototype/static/js/3.f3e79cc5.chunk.js.map",
     "static/js/4.5598e2a3.chunk.js": "/monica-dashboard-prototype/static/js/4.5598e2a3.chunk.js",
@@ -20,16 +20,16 @@
     "static/js/8.4d2adfb4.chunk.js.map": "/monica-dashboard-prototype/static/js/8.4d2adfb4.chunk.js.map",
     "static/js/9.10dfd32b.chunk.js": "/monica-dashboard-prototype/static/js/9.10dfd32b.chunk.js",
     "static/js/9.10dfd32b.chunk.js.map": "/monica-dashboard-prototype/static/js/9.10dfd32b.chunk.js.map",
-    "static/js/10.80e7130a.chunk.js": "/monica-dashboard-prototype/static/js/10.80e7130a.chunk.js",
-    "static/js/10.80e7130a.chunk.js.map": "/monica-dashboard-prototype/static/js/10.80e7130a.chunk.js.map",
+    "static/js/10.49533634.chunk.js": "/monica-dashboard-prototype/static/js/10.49533634.chunk.js",
+    "static/js/10.49533634.chunk.js.map": "/monica-dashboard-prototype/static/js/10.49533634.chunk.js.map",
     "index.html": "/monica-dashboard-prototype/index.html",
-    "precache-manifest.e84a9f23ad1678fe3315d8fb05e545fc.js": "/monica-dashboard-prototype/precache-manifest.e84a9f23ad1678fe3315d8fb05e545fc.js",
+    "precache-manifest.ba1e4dbbf46c0a73df536ae7abf2fc64.js": "/monica-dashboard-prototype/precache-manifest.ba1e4dbbf46c0a73df536ae7abf2fc64.js",
     "service-worker.js": "/monica-dashboard-prototype/service-worker.js",
     "static/js/3.f3e79cc5.chunk.js.LICENSE.txt": "/monica-dashboard-prototype/static/js/3.f3e79cc5.chunk.js.LICENSE.txt",
     "static/js/4.5598e2a3.chunk.js.LICENSE.txt": "/monica-dashboard-prototype/static/js/4.5598e2a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a58a6515.js",
+    "static/js/runtime-main.f1ada63a.js",
     "static/js/4.5598e2a3.chunk.js",
     "static/js/main.341a6906.chunk.js"
   ]

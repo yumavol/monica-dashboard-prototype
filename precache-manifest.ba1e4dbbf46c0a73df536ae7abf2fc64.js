@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4495be4a3132aae851e5702b371c8b51",
+    "revision": "3477b722781f2edb1dfd80e7a3c65a8b",
     "url": "/monica-dashboard-prototype/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monica-dashboard-prototype/static/js/0.21cccbd0.chunk.js"
   },
   {
-    "revision": "e3bca9939337fca8fa9a",
-    "url": "/monica-dashboard-prototype/static/js/10.80e7130a.chunk.js"
+    "revision": "fc8e37cb03dbff5b057d",
+    "url": "/monica-dashboard-prototype/static/js/10.49533634.chunk.js"
   },
   {
     "revision": "30d96d489da187917db5",
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monica-dashboard-prototype/static/js/main.341a6906.chunk.js"
   },
   {
-    "revision": "9a5fbe37d34419f03515",
-    "url": "/monica-dashboard-prototype/static/js/runtime-main.a58a6515.js"
+    "revision": "77a958784fd01b4057e4",
+    "url": "/monica-dashboard-prototype/static/js/runtime-main.f1ada63a.js"
   }
 ]);

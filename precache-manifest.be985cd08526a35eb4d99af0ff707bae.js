@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3477b722781f2edb1dfd80e7a3c65a8b",
+    "revision": "98870bf228820e7eb5ba36181fb11350",
     "url": "/monica-dashboard-prototype/index.html"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monica-dashboard-prototype/static/js/9.10dfd32b.chunk.js"
   },
   {
-    "revision": "b7f419995de8bc12c685",
-    "url": "/monica-dashboard-prototype/static/js/main.341a6906.chunk.js"
+    "revision": "f3ac8d2921e7d0354f10",
+    "url": "/monica-dashboard-prototype/static/js/main.865a0e9f.chunk.js"
   },
   {
     "revision": "77a958784fd01b4057e4",

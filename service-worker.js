@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/monica-dashboard-prototype/precache-manifest.ba1e4dbbf46c0a73df536ae7abf2fc64.js"
+  "/monica-dashboard-prototype/precache-manifest.be985cd08526a35eb4d99af0ff707bae.js"
 );
 
 self.addEventListener('message', (event) => {

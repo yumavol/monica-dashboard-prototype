@@ -2,8 +2,8 @@
   "files": {
     "static/js/0.21cccbd0.chunk.js": "/monica-dashboard-prototype/static/js/0.21cccbd0.chunk.js",
     "static/js/0.21cccbd0.chunk.js.map": "/monica-dashboard-prototype/static/js/0.21cccbd0.chunk.js.map",
-    "main.js": "/monica-dashboard-prototype/static/js/main.341a6906.chunk.js",
-    "main.js.map": "/monica-dashboard-prototype/static/js/main.341a6906.chunk.js.map",
+    "main.js": "/monica-dashboard-prototype/static/js/main.865a0e9f.chunk.js",
+    "main.js.map": "/monica-dashboard-prototype/static/js/main.865a0e9f.chunk.js.map",
     "runtime-main.js": "/monica-dashboard-prototype/static/js/runtime-main.f1ada63a.js",
     "runtime-main.js.map": "/monica-dashboard-prototype/static/js/runtime-main.f1ada63a.js.map",
     "static/js/3.f3e79cc5.chunk.js": "/monica-dashboard-prototype/static/js/3.f3e79cc5.chunk.js",
@@ -23,7 +23,7 @@
     "static/js/10.49533634.chunk.js": "/monica-dashboard-prototype/static/js/10.49533634.chunk.js",
     "static/js/10.49533634.chunk.js.map": "/monica-dashboard-prototype/static/js/10.49533634.chunk.js.map",
     "index.html": "/monica-dashboard-prototype/index.html",
-    "precache-manifest.ba1e4dbbf46c0a73df536ae7abf2fc64.js": "/monica-dashboard-prototype/precache-manifest.ba1e4dbbf46c0a73df536ae7abf2fc64.js",
+    "precache-manifest.be985cd08526a35eb4d99af0ff707bae.js": "/monica-dashboard-prototype/precache-manifest.be985cd08526a35eb4d99af0ff707bae.js",
     "service-worker.js": "/monica-dashboard-prototype/service-worker.js",
     "static/js/3.f3e79cc5.chunk.js.LICENSE.txt": "/monica-dashboard-prototype/static/js/3.f3e79cc5.chunk.js.LICENSE.txt",
     "static/js/4.5598e2a3.chunk.js.LICENSE.txt": "/monica-dashboard-prototype/static/js/4.5598e2a3.chunk.js.LICENSE.txt"
@@ -31,6 +31,6 @@
   "entrypoints": [
     "static/js/runtime-main.f1ada63a.js",
     "static/js/4.5598e2a3.chunk.js",
-    "static/js/main.341a6906.chunk.js"
+    "static/js/main.865a0e9f.chunk.js"
   ]
 }
